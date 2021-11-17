@@ -14,6 +14,6 @@ export const toDoItems = [
     {
         id: uuid(),
         text: "lyalya",
-        done: false
+        done: true
     }
 ]
